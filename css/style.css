@@ -64,7 +64,7 @@ header {
 
 /* ======= PORTADA ======= */
 .container-cover {
-  background: linear-gradient(rgba(13, 71, 161, 0.6), rgba(13, 71, 161, 0.6)), url('../img/img1.jpg') center/cover no-repeat;
+  background: linear-gradient(rgba(13, 71, 161, 0.6), rgba(13, 71, 161, 0.6)), url('../img/Img1.jpg') center/cover no-repeat;
   height: 60vh;
   display: flex;
   align-items: center;
